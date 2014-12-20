@@ -5,7 +5,7 @@
     <artifactId>duckwriter-graphics-shapes2d</artifactId>
     <packaging>jar</packaging>
     <version>1.0</version>
-    <name>duckwriter-graphics-shapes2d</name>
+    <name>duckwriter-graphics-objects2d</name>
     <url>http://maven.apache.org</url>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
