@@ -1,4 +1,4 @@
-package com.duckwriter.graphics.shapes2d;
+package com.duckwriter.graphics.objects2d;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.awt.image.ImageProducer;
